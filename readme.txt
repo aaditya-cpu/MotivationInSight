@@ -1,6 +1,6 @@
 === Motivational Quotes ===
 
-Contributors: Your Name
+Contributors: Aaditya Goenka
 Tags: quotes, motivation, admin bar
 Requires at least: 5.0
 Tested up to: 5.7
